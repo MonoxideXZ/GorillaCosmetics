@@ -1,4 +1,3 @@
-# GorillaCosmetics
 # Gorilla Cosmetics
 
 A PC cosmetic mod for Gorilla Tag that allows customizing the look of gorillas with materials and hats.
